@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Este programa é um exemplo básico para as aplicações de controle de versionamento GIT
+
 int main(){
 
 	int a = 3;
